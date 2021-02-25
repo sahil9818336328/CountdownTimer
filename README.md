@@ -2,6 +2,7 @@
 
 ### A countdown timer which simply shows the ending date for the offer , in days hours minutes and seconds .
 
+### View my deployed app at :- https://sahil9818336328.github.io/CountdownTimer/
 
 # Technologies used: 
 
